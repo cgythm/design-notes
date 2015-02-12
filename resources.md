@@ -18,3 +18,4 @@
 1. Gulp to combine multiple JS files into one, using some sort of module system
 2. Taskrunner/bower
 3. [Jank-Free web](http://jankfree.org/), doing stuff without that jank (aka scrolling at 60fps)
+4. [Building a UI in Canvas](http://engineering.flipboard.com/2015/02/mobile-web/)
