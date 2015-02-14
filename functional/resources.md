@@ -1,5 +1,7 @@
 ### Cononical Answers Found on SO
 1. [Why r side effects modelled as monads in haskell](http://stackoverflow.com/questions/2488646/why-are-side-effects-modeled-as-monads-in-haskell?rq=1)
+2. [Is the signal respresentation of Functional Reactive Programming accurate?](http://stackoverflow.com/questions/7451317/is-the-signal-representation-of-functional-reactive-programming-correct?rq=1) \*spoiler\* __it is NOT__ \*spoiler\*
+3. [What is (functional) reactive programming?](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming/1030631#1030631)
 
 ### Odd ins and outs
 1. [Analyzing Context Dependency in Programs](http://tomasp.net/academic/drafts/coeffects-structural/coeffects-structural.pdf) Maybe about scopes, gotta read paper.
