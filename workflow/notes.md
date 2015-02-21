@@ -9,3 +9,7 @@
 4. Bower
 5. Yo
 6. [Karma](https://www.npmjs.com/package/karma)
+7. 
+
+### Concepts
+1. [Cucumber Given-When-Then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
