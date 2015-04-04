@@ -22,4 +22,4 @@
 16. [Lectures on Functional Programming](http://www.ii.uni.wroc.pl/~lukstafi/pmwiki/index.php?n=Functional.Functional) A VERY DECENT RESOURCE :)
 
 ### Why is this even here?
-1. [Ian Hacking: Lost in deh forest](http://www.lrb.co.uk/v35/n15/ian-hacking/lost-in-the-forest). His review of the DSM manual and the construction, maintaince of diagnosis, and the scholarly efforts by worker-bees maintaining it and how profitable it is, and how it is literally a living document. It is really really a lot like the standards we encounter on this end of the world.
+1. [Ian Hacking: Lost in the forest](http://www.lrb.co.uk/v35/n15/ian-hacking/lost-in-the-forest). His review of the DSM manual and the construction, maintaince of diagnosis, and the scholarly efforts by worker-bees maintaining it and how profitable it is, and how it is literally a living document. It is really really a lot like the standards we encounter on this end of the world.
